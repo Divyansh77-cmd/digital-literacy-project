@@ -15,9 +15,10 @@ I aim to gain expertise in software development, data structures and algorithms,
 
 ---
 
-🔗 **Connect with Me:**
+🔗 # Key Links
 - LinkedIn: (https://www.linkedin.com/in/divyansh-agarwal-2b3439365/)
 - Kaggle: (https://www.kaggle.com/divyanshag07)
+- Google Forms: https://docs.google.com/forms/d/e/1FAIpQLSfKqOo296RA4J2jDwDTC-YTEt5KmsdTqWZnCK6oghePRR5u_Q/viewform?usp=sharing&ouid=109220145976271885096
 
 ---
 
