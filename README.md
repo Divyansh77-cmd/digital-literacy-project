@@ -13,6 +13,14 @@ I am a Computer Science student with a strong interest in technology, programmin
 🚀 **What I Hope to Learn:**  
 I aim to gain expertise in software development, data structures and algorithms, and emerging technologies like Artificial Intelligence and Machine Learning.
 
+**📂 Repository Structure**
+report/ → Final project report (.docx/.pdf)
+task-1-presentation/ → Infographic (Canva design)
+task-2-portfolio/ → Screenshots of GitHub, LinkedIn, Kaggle profiles
+task-3-platforms/ → HackerRank + Google Form & responses
+task-4-email-etiquette/ → Email drafts + social media checklist
+task-5-cybercrime/ → Case study + prevention checklist
+
 # Project Overview
 
 This project documents my first-year journey as a B.Tech CSE student. I have built a professional portfolio on GitHub, completed Python coding challenges,learned google forms and created guides on cybersecurity and email etiquette.
